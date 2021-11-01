@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there
+I strongly believe in creating an environment that encourages collective learning. But sometimes you know writing some things will spend too much time if you are a writer. Therefore, I actively share with the community by publishing open-source code on GitHub and tech articles. If you found value in something I created, please, pass it on to others. 😄
 <!--
 **rugl/rugl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
