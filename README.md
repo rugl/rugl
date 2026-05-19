@@ -58,8 +58,8 @@ implementations from scratch to go beyond theoretical knowledge.
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/dennislin](https://www.linkedin.com/in/yu-fan-dennis-lin-01958b143/)) ← *replace with your actual URL*
-- 📧 *your email here*
+- 💼 [LinkedIn](https://www.linkedin.com/in/yu-fan-dennis-lin-01958b143/) ← *replace with your actual URL*
+-- 📧 *your email here*
 - 🌏 Based in Taipei, Taiwan · Open to remote
 
 ---
